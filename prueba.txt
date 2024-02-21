@@ -7,3 +7,5 @@ este verga esta conectada a mi cuenta de github pero me va tocar cambiar o agreg
 
 
 probando de local a github habiendo cambiado el url
+
+ahora probando haciendo el update desde github a local habiendo cambiado el nombre del repo
